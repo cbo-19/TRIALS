@@ -5,3 +5,5 @@ This is a readme file for starting with C programming. All the best to me
 1-compiler runs a C file but does not link
 
 2-assembler assembles a Cfile and save it in an output file
+
+3-name compiles a C file and creates an executable file
