@@ -9,3 +9,5 @@ This is a readme file for starting with C programming. All the best to me
 3-name compiles a C file and creates an executable file
 
 4-puts.c creates a C program
+
+5-printf.c uses printf for output
