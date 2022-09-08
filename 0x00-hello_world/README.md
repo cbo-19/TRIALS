@@ -13,3 +13,5 @@ This is a readme file for starting with C programming. All the best to me
 5-printf.c uses printf for output
 
 6-size.c prints the size of the various data types
+
+100-intel generates an assembly code (intel syntax)
