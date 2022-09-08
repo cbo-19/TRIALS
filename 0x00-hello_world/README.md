@@ -15,3 +15,5 @@ This is a readme file for starting with C programming. All the best to me
 6-size.c prints the size of the various data types
 
 100-intel generates an assembly code (intel syntax)
+
+101-quote.c prints an output without printf
