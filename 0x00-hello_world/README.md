@@ -11,3 +11,5 @@ This is a readme file for starting with C programming. All the best to me
 4-puts.c creates a C program
 
 5-printf.c uses printf for output
+
+6-size.c prints the size of the various data types
